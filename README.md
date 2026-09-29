@@ -2,16 +2,6 @@
 
 Master of Information Management student at the University of Maryland, focused on backend development, data engineering, and practical AI/LLM applications. I enjoy building reliable data systems from APIs and ingestion pipelines to analytics workflows, machine-learning applications, and cloud-based tools.
 
-## 🔧 Tech Stack
-
-**Languages:** Python, SQL, JavaScript  
-**Backend:** FastAPI, REST APIs, PostgreSQL, Firebase, Pydantic  
-**Data Engineering:** Apache Kafka, Apache Airflow, Prefect, PySpark, dbt  
-**AI & Data:** Pandas, NLP, LLM APIs, prompt engineering, data quality testing  
-**Cloud & Warehouses:** GCP, Google BigQuery, DuckDB, Snowflake  
-**Visualization:** Tableau, Looker Studio, Streamlit  
-**Other:** Docker, Git, GitHub Actions  
-
 ## 📌 Featured Projects
 
 - 🔴 **Real-Time Financial Sentiment Engine** — Real-time news pipeline using Kafka, Airflow, FinBERT NLP, PostgreSQL, dbt, and Streamlit  
@@ -19,13 +9,14 @@ Master of Information Management student at the University of Maryland, focused 
 - 🟢 **E-commerce Analytics Pipeline** — Batch ETL pipeline processing 541K+ retail records with PySpark, DuckDB, dbt, and Docker  
 - 🔵 **Product Analytics Pipeline** — Cloud analytics workflow using GCP, BigQuery, dbt, and Prefect  
 
-## Connect
+## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/xuan-zhang-002a6b261/) · [Email](mailto:leon.xuzhang@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-zhang-002a6b261/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leon.xuzhang@gmail.com)
 
 ## Some of My Skills
 
-### Languages & Backend
+### 🛠️ Languages & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
