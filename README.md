@@ -19,8 +19,9 @@ Master of Information Management student at the University of Maryland, focused 
 - 🟢 **E-commerce Analytics Pipeline** — Batch ETL pipeline processing 541K+ retail records with PySpark, DuckDB, dbt, and Docker  
 - 🔵 **Product Analytics Pipeline** — Cloud analytics workflow using GCP, BigQuery, dbt, and Prefect  
 
-📫 [leon.xuzhang@gmail.com](mailto:leon.xuzhang@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/xuan-zhang-002a6b261/)
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/xuan-zhang-002a6b261/) · [Email](mailto:leon.xuzhang@gmail.com)
 
 ## Some of My Skills
 
