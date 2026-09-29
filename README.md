@@ -1,6 +1,6 @@
 # Hi, I’m Leon (Xuan Zhang) 👋
 
-Master of Information Management student at the University of Maryland, focused on backend development, data engineering, and practical AI/LLM applications. I enjoy building reliable data systems—from APIs and ingestion pipelines to analytics workflows, machine-learning applications, and cloud-based tools.
+Master of Information Management student at the University of Maryland, focused on backend development, data engineering, and practical AI/LLM applications. I enjoy building reliable data systems from APIs and ingestion pipelines to analytics workflows, machine-learning applications, and cloud-based tools.
 
 ## 🔧 Tech Stack
 
