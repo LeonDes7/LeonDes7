@@ -5,9 +5,9 @@ Master of Information Management student at the University of Maryland, focused 
 ## 📌 Featured Projects
 
 - 🔴 **Real-Time Financial Sentiment Engine** — Real-time news pipeline using Kafka, Airflow, FinBERT NLP, PostgreSQL, dbt, and Streamlit  
-- ⚡ **EIA Energy Pipeline** — End-to-end energy data platform using Kafka, Snowflake, dbt, LLM enrichment, Great Expectations, and CI testing  
+- 🔵 **EIA Energy Pipeline** — End-to-end energy data platform using Kafka, Snowflake, dbt, LLM enrichment, Great Expectations, and CI testing  
 - 🟢 **E-commerce Analytics Pipeline** — Batch ETL pipeline processing 541K+ retail records with PySpark, DuckDB, dbt, and Docker  
-- 🔵 **Product Analytics Pipeline** — Cloud analytics workflow using GCP, BigQuery, dbt, and Prefect  
+- 🟣 GitHub Issues RAG Assistant — Evidence-grounded AWS RAG assistant for 9,555 GitHub issues using S3, PostgreSQL/pgvector, FastAPI, Lambda/API Gateway, OpenAI, and Streamlit
 
 ## 📫 Connect
 
